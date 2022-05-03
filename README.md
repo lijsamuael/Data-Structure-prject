@@ -1,0 +1,1 @@
+This is a data strucure project that is done by me and other 4 students as a group assignment.The project is concerned on how to retrive and update data and other different 20 functions. It uses the concept linked list and we implement the linked list data strucuture to do all the tasks needed by the project.
